@@ -7,6 +7,3 @@ print(company)
 print(street)
 print(city)
 print(country)
-
-apple = "evil"
-print(apple)
